@@ -1,4 +1,4 @@
-# Wallet and Transaction Samples
+# Crossmint Sample Guides
 
 This folder contains sample documentation for integrating with Crossmint.
 
