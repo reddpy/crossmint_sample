@@ -294,5 +294,3 @@ This example code is provided as-is for integration purposes.
   - Example code chains updated if needed (kept polygon but noted amoy for staging in comments/next steps).
 - **General Docs Sync**: Reinforced staging/testnet warnings (e.g., no mainnet on staging). No changes to core code as chains like polygon are ✅ for wallets.
 - **Enhancements**: Added "contact for ✱" CTA, full table link. Kept educational focus—now comprehensively accurate and scalable.
-
-This README is now fully synced with all provided docs (create/tx/send + chains). For GH, add a note: "Chain identifiers match exact Mainnet/Testnet Labels from Crossmint." Perfect for unblocking devs!

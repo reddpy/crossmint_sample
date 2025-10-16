@@ -294,5 +294,3 @@ Este código de ejemplo se proporciona tal cual para fines de integración.
   - Cadenas en código de ejemplo actualizadas si necesario (mantenido polygon pero notado amoy para staging en comentarios/pasos siguientes).
 - **Sincronización General con Docs**: Reforzadas advertencias staging/testnet (ej. no mainnet en staging). Sin cambios en código principal ya que cadenas como polygon son ✅ para wallets.
 - **Mejoras**: Agregado CTA "contacta para ✱", enlace a tabla completa. Mantenido enfoque educativo—ahora comprehensivamente preciso y escalable.
-
-Este README ahora está completamente sincronizado con todos los docs proporcionados (create/tx/send + chains). Para GH, agrega una nota: "Identificadores de cadena coinciden exactamente con Etiquetas Mainnet/Testnet de Crossmint." ¡Perfecto para desbloquear devs!
