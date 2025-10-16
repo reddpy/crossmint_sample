@@ -1,6 +1,6 @@
 # Wallet and Transaction Samples
 
-This folder contains sample documentation for integrating with Crossmint to create wallets and send transactions.
+This folder contains sample documentation for integrating with Crossmint.
 
 ## Samples
 
