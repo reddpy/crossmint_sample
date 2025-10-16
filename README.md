@@ -12,4 +12,4 @@ Crossmint provides APIs and tools to simplify web3 integrations including wallet
 
 ## Getting Started
 
-See the [samples README](samples/wallet_tx_send/README.md) for examples on how to create a wallet and send a transaction.
+See the [samples README](samples/README.md) for examples on how to create a wallet and send a transaction.
