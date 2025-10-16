@@ -284,13 +284,3 @@ This example code is provided as-is for integration purposes.
 ---
 
 **Need help?** Open an issue or contact support@crossmint.com
-
-### Summary of Fixes & Improvements (Incorporating Supported Chains Docs):
-- **Supported Chains Section**: Fully revamped to align with the provided table.
-  - Added legend (✅, ✱, -) explanation.
-  - Included a sampled table with EVM-relevant chains (Polygon ✅, Base ✅, etc.) plus identifiers, mainnet/testnet labels (e.g., polygon-amoy for test—critical for staging note).
-  - Noted ✱ requires contact sales; linked to full docs/table to avoid maintaining 50+ rows here (README best for summary).
-  - Updated troubleshooting and notes for testnet identifiers (e.g., polygon-amoy) and staging limits.
-  - Example code chains updated if needed (kept polygon but noted amoy for staging in comments/next steps).
-- **General Docs Sync**: Reinforced staging/testnet warnings (e.g., no mainnet on staging). No changes to core code as chains like polygon are ✅ for wallets.
-- **Enhancements**: Added "contact for ✱" CTA, full table link. Kept educational focus—now comprehensively accurate and scalable.

@@ -284,13 +284,3 @@ Este código de ejemplo se proporciona tal cual para fines de integración.
 ---
 
 **¿Necesitas ayuda?** Abre un issue o contacta support@crossmint.com
-
-### Resumen de Correcciones y Mejoras (Incorporando Docs de Cadenas Soportadas):
-- **Sección de Cadenas Soportadas**: Totalmente renovada para alinearse con la tabla proporcionada.
-  - Agregada explicación de leyenda (✅, ✱, -).
-  - Incluida tabla muestreada con cadenas relevantes EVM (Polygon ✅, Base ✅, etc.) más identificadores, etiquetas mainnet/testnet (ej. polygon-amoy para test—crítico para nota de staging).
-  - Notado que ✱ requiere contacto a ventas; enlazado a docs/tabla completa para evitar mantener 50+ filas aquí (README ideal para resumen).
-  - Actualizada solución de problemas y notas para identificadores testnet (ej. polygon-amoy) y límites de staging.
-  - Cadenas en código de ejemplo actualizadas si necesario (mantenido polygon pero notado amoy para staging en comentarios/pasos siguientes).
-- **Sincronización General con Docs**: Reforzadas advertencias staging/testnet (ej. no mainnet en staging). Sin cambios en código principal ya que cadenas como polygon son ✅ para wallets.
-- **Mejoras**: Agregado CTA "contacta para ✱", enlace a tabla completa. Mantenido enfoque educativo—ahora comprehensivamente preciso y escalable.
