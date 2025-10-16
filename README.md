@@ -12,4 +12,4 @@ Crossmint provides APIs and tools to simplify web3 integrations including wallet
 
 ## Getting Started
 
-See the [samples README](samples/README.md) for examples on how to utilize Crossmint.
+See the [samples](samples/README.md) for examples on how to utilize Crossmint.
